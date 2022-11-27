@@ -1,0 +1,1 @@
+Exhaustive_Search_Approach Complexity = o (7n^2 + 1 +  2n^2) = o(n^2) efficiencyDynamic_Programming_ApproachComplexity = o(3 + 4n + 1) = o(n) efficiency Note : Dynamic programming is more efficiency than exhaustive  search because as you see above efficiency 
